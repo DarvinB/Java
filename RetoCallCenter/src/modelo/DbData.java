@@ -2,6 +2,7 @@ package modelo;
 
 public class DbData {
     // Atributos
+    //hola
     private String driver = "com.mysql.jdbc.Driver"; // cadena de conexión entre el aplicativo para configurar el servicio
     private String user = "root"; // usuario de la base de datos
     private String password = ""; // contraseña del usuario
